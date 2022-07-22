@@ -45,15 +45,17 @@
 
 <!-- streak -->
 
-<h3 align="center">Histórico e Troféus:</h3><br>
+<h3 align="center">Histórico:</h3><br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauro-domingues&show_icons=true&theme=highcontrast" alt="mauro-domingues" /></p><br>
 
 <!-- trophy -->
 
+<h3 align="center">Troféus no Github:</h3><br>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mauro-domingues" alt="mauro-domingues" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mauro-domingues&theme=onestar" alt="mauro-domingues" />
   </a>
 </p><br>
 
