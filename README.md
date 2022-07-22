@@ -6,7 +6,7 @@
 <!-- stats -->
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mauro-Domingues&show_icons=true&theme=highcontrast" alt="mauro-domingues"/></p><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mauro-Domingues&show_icons=true&theme=highcontrast" alt="As estatísticas não podem ser carregadas"/></p><br>
 
 <hr>
 
@@ -38,7 +38,7 @@
  <!-- most used languages-->
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauro-domingues&show_icons=true&theme=highcontrast" alt="mauro-domingues"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauro-domingues&show_icons=true&theme=highcontrast" alt="As linguagens mais utilizadas não podem ser carregadas"/>
 </p><br>
 
 <hr>
@@ -47,7 +47,9 @@
 
 <h3 align="center">Histórico:</h3><br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauro-domingues&show_icons=true&theme=highcontrast" alt="mauro-domingues" /></p><br>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauro-domingues&show_icons=true&theme=highcontrast" alt="O histórico não pode ser carregado"/>
+</p><br>
 
 <!-- trophy -->
 
@@ -55,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mauro-domingues&theme=onestar" alt="mauro-domingues" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mauro-domingues&theme=onestar" alt="Os troféus não podem ser carregados" />
   </a>
 </p><br>
 
