@@ -1,7 +1,7 @@
 <hr>
 
 <h1 align="center">Olá mundo👋<br>Eu sou Mauro Domingues</h1>
-<h3 align="center">Sou iniciante na área da programação, recentemente finalizando um curso web full stack com a Startse Tech Academy. Sou apaixonado por tecnologia e uma pessoa extremamente curiosa, sempre querendo aprender mais.</h3><br>
+<h3 align="center">Sou iniciante na área da programação, recentemente finalizando um curso web full stack com a Startse Tech Academy. Sou apaixonado por tecnologia e uma pessoa extremamente curiosa, sempre querendo aprender mais. #BoraAprender</h3><br>
 
 <!-- stats -->
 
