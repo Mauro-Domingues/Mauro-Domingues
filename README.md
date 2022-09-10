@@ -4,7 +4,7 @@
 <h3 align="center">Sou apaixonado por tecnologia e uma pessoa extremamente curiosa, sempre buscando aprender mais. #BoraAprender</h3><br>
 <h3 align="center">Entre em contato:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mauro-domingues-mrcross-37374a245">
+  <a href="https://www.linkedin.com/in/mauro-domingues">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="80">
   </a>
   <a href="mailto:maurinho.villa@hotmail.com">
