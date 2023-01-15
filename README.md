@@ -33,6 +33,8 @@
  <h3 align="center">Tools and enviroments:</h3>
  <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50"/><span>&nbsp;&nbsp;&nbsp;</span>
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="50"/><span>&nbsp;&nbsp;&nbsp;</span>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="50"/><span>&nbsp;&nbsp;&nbsp;</span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="50"/><span>&nbsp;&nbsp;&nbsp;</span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="50"/><span>&nbsp;&nbsp;&nbsp;</span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="50"/><span>&nbsp;&nbsp;&nbsp;</span>
