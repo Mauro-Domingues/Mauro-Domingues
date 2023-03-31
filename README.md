@@ -1,6 +1,6 @@
 <hr>
 
-<h1 align="center">Hello word👋<br>My name is Mauro Domingues and you can call me Cross</h1>
+<h1 align="center">Hello word👋<br>My name is Mauro and you can call me Cross</h1>
 <h3 align="center">A passionate about technology and an extremely curious person, always seeking to learn more.<br>I am a fullstack developer with emphasis on backend and as you can see, typescript is my favorite stack hehe. This is not a repository intended to be a portfolio but rather my study environment, however there are several projects in it that you would love to know, including my own npm package.<br> #letslearn🚀</h3><br>
 <h3 align="center">Contact me:</h3>
 <div align="center">
@@ -14,7 +14,7 @@
 
 <!-- icons -->
 
-<h3 align="center">Main stacks:</h3>
+<!-- <h3 align="center">Main stacks:</h3>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50"/><span>&nbsp;&nbsp;&nbsp;</span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50"/><span>&nbsp;&nbsp;&nbsp;</span>
@@ -54,33 +54,33 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="50"/><span>&nbsp;&nbsp;&nbsp;</span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="50"/><span>&nbsp;&nbsp;&nbsp;</span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="50"/>
- </div><br>
+ </div><br> -->
  
 
  
- <hr>
+<!--  <hr> -->
  
  <!-- most used languages-->
- <h3 align="center">Most used languages:</h3><br>
+<!--  <h3 align="center">Most used languages:</h3><br>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauro-domingues&show_icons=true&theme=highcontrast" alt="As linguagens mais utilizadas não podem ser carregadas"/>
 </div><br>
-
+ -->
 <!-- streak -->
 
-<h3 align="center">History and combos:</h3><br>
+<!-- <h3 align="center">History and combos:</h3><br>
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauro-domingues&show_icons=true&theme=highcontrast" alt="O histórico não pode ser carregado"/>
 </div><br>
-
+ -->
 <!-- trophy -->
-
+<!-- 
 <h3 align="center">Github trophies:</h3><br>
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mauro-domingues&theme=onestar" alt="Os troféus não podem ser carregados"/>
 </div><br>
-
-<hr>
+ -->
+<!-- <hr> -->
