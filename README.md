@@ -9,6 +9,6 @@
   </a>
   <span>&nbsp;</span>
   <a href="mailto:maurinho.villa@hotmail.com">
-    <img src="https://github.com/Mauro-Domingues/Mauro-Domingues-portifolio/blob/main/images/email-icon.png?raw=true" height="60">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" height="60">
   </a>
 </div><hr>
