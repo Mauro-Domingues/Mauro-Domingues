@@ -1,6 +1,8 @@
 <hr>
-<h1 align="center">Hello world👋<br>My name is Mauro and you can call me Cross</h1>
-<h3 align="center">A passionate about technology and an extremely curious person, always seeking to learn more.<br>I am a fullstack developer with emphasis on backend and typescript is my favorite stack hehe. This is not a repository intended to be a portfolio but rather my study environment so the most of the repositories are private.<br> #letslearn🚀</h3><br>
+<h1 align="center">Hello there👋<br>My name is Mauro and you can call me Cross</h1>
+<h3 align="center">A passionate about technology and an extremely curious person, always seeking to learn more.<br>
+I am a fullstack developer with emphasis on backend and typescript is my favorite stack hehe. Also an open source contributor having two packages of my own.</h3>
+<h3 align="center">This is not a repository intended to be a portfolio but rather my work and study environment so the most of the repositories are private.<br> #letslearn🚀</h3><br>
 <h3 align="center">Contact me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/mauro-domingues">
